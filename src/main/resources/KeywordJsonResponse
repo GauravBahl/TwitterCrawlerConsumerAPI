@@ -1,0 +1,642 @@
+{
+	"created_at": "Tue Sep 03 03:43:34 +0000 2019",
+	"id": 1168731234178162688,
+	"id_str": "1168731234178162688",
+	"text": "RT @NOAA: Get the latest #dorian forecast at https:\/\/t.co\/F0S83hgxNY Your local forecast at https:\/\/t.co\/xIvbS91hjX https:\/\/t.co\/5iR8Z1sia4",
+	"source": "\u003ca href=\"https:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003eTwitter Web App\u003c\/a\u003e",
+	"truncated": false,
+	"in_reply_to_status_id": null,
+	"in_reply_to_status_id_str": null,
+	"in_reply_to_user_id": null,
+	"in_reply_to_user_id_str": null,
+	"in_reply_to_screen_name": null,
+	"user": {
+		"id": 2263946910,
+		"id_str": "2263946910",
+		"name": "True Blue Warriors",
+		"screen_name": "TruBluWarriors",
+		"location": null,
+		"url": "http:\/\/www.truebluewarriors.org",
+		"description": "A Family Born Not From A Blood Line ... But Bonded In Life By A Blue One\u00a9 Come and join our True Blue family on facebook : http:\/\/t.co\/Bv6RZSEsC1",
+		"translator_type": "none",
+		"protected": false,
+		"verified": false,
+		"followers_count": 4516,
+		"friends_count": 3464,
+		"listed_count": 61,
+		"favourites_count": 8271,
+		"statuses_count": 26994,
+		"created_at": "Fri Dec 27 07:14:34 +0000 2013",
+		"utc_offset": null,
+		"time_zone": null,
+		"geo_enabled": false,
+		"lang": null,
+		"contributors_enabled": false,
+		"is_translator": false,
+		"profile_background_color": "C0DEED",
+		"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+		"profile_background_tile": false,
+		"profile_link_color": "0000B3",
+		"profile_sidebar_border_color": "C0DEED",
+		"profile_sidebar_fill_color": "DDEEF6",
+		"profile_text_color": "333333",
+		"profile_use_background_image": true,
+		"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/468957609764986880\/gbudVf3u_normal.png",
+		"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/468957609764986880\/gbudVf3u_normal.png",
+		"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/2263946910\/1547266495",
+		"default_profile": false,
+		"default_profile_image": false,
+		"following": null,
+		"follow_request_sent": null,
+		"notifications": null
+	},
+	"geo": null,
+	"coordinates": null,
+	"place": null,
+	"contributors": null,
+	"retweeted_status": {
+		"created_at": "Tue Sep 03 01:24:09 +0000 2019",
+		"id": 1168696148569333761,
+		"id_str": "1168696148569333761",
+		"text": "Get the latest #dorian forecast at https:\/\/t.co\/F0S83hgxNY Your local forecast at https:\/\/t.co\/xIvbS91hjX https:\/\/t.co\/5iR8Z1sia4",
+		"display_text_range": [0, 105],
+		"source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+		"truncated": false,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14342564,
+			"id_str": "14342564",
+			"name": "NOAA",
+			"screen_name": "NOAA",
+			"location": "USA (Formerly @usNOAAgov)",
+			"url": "http:\/\/www.noaa.gov",
+			"description": "NOAA provides science, service and stewardship to protect life and property, and conserve\/protect the Earth's natural resources. (Follows are not endorsements).",
+			"translator_type": "none",
+			"protected": false,
+			"verified": true,
+			"followers_count": 1034246,
+			"friends_count": 120,
+			"listed_count": 11978,
+			"favourites_count": 17,
+			"statuses_count": 13178,
+			"created_at": "Wed Apr 09 15:26:21 +0000 2008",
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"profile_background_color": "0257B2",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_tile": false,
+			"profile_link_color": "14A9DA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "BEDBE8",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/529277799018676225\/MOsMKe14_normal.jpeg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/529277799018676225\/MOsMKe14_normal.jpeg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/14342564\/1364414749",
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": null,
+			"follow_request_sent": null,
+			"notifications": null
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"quoted_status_id": 1168693070654840832,
+		"quoted_status_id_str": "1168693070654840832",
+		"quoted_status": {
+			"created_at": "Tue Sep 03 01:11:55 +0000 2019",
+			"id": 1168693070654840832,
+			"id_str": "1168693070654840832",
+			"text": "#Dorian timeline &amp; impacts in a nutshell:\nTues-Wed: close to the Florida east coast\nWed-Thurs: close to the Georgia\u2026 https:\/\/t.co\/Xq9snzbWP1",
+			"display_text_range": [0, 140],
+			"source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+			"truncated": true,
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 454313925,
+				"id_str": "454313925",
+				"name": "National Weather Service",
+				"screen_name": "NWS",
+				"location": "United States",
+				"url": "http:\/\/www.weather.gov",
+				"description": "Official Twitter account for NOAA's National Weather Service. Details: http:\/\/weather.gov\/twitter",
+				"translator_type": "none",
+				"protected": false,
+				"verified": true,
+				"followers_count": 2826413,
+				"friends_count": 309,
+				"listed_count": 8860,
+				"favourites_count": 2931,
+				"statuses_count": 23128,
+				"created_at": "Tue Jan 03 21:24:25 +0000 2012",
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+				"profile_background_tile": false,
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/842835019613831170\/vvWHIDxE_normal.jpg",
+				"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/842835019613831170\/vvWHIDxE_normal.jpg",
+				"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/454313925\/1567476218",
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": null,
+				"follow_request_sent": null,
+				"notifications": null
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"extended_tweet": {
+				"full_text": "#Dorian timeline &amp; impacts in a nutshell:\nTues-Wed: close to the Florida east coast\nWed-Thurs: close to the Georgia and South Carolina coasts\nPotential impacts: life-threatening storm surge, dangerous winds, flash floods, isolated tornadoes\nhttps:\/\/t.co\/IKid9pZiUO https:\/\/t.co\/JsTg9PD3PG",
+				"display_text_range": [0, 268],
+				"entities": {
+					"hashtags": [{
+						"text": "Dorian",
+						"indices": [0, 7]
+					}],
+					"urls": [{
+						"url": "https:\/\/t.co\/IKid9pZiUO",
+						"expanded_url": "http:\/\/noaa.gov\/dorian",
+						"display_url": "noaa.gov\/dorian",
+						"indices": [245, 268]
+					}],
+					"user_mentions": [],
+					"symbols": [],
+					"media": [{
+						"id": 1168692998017880066,
+						"id_str": "1168692998017880066",
+						"indices": [269, 292],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EDgIFvZXkAIjS_9.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EDgIFvZXkAIjS_9.jpg",
+						"url": "https:\/\/t.co\/JsTg9PD3PG",
+						"display_url": "pic.twitter.com\/JsTg9PD3PG",
+						"expanded_url": "https:\/\/twitter.com\/NWS\/status\/1168693070654840832\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 765,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 765,
+								"resize": "fit"
+							}
+						}
+					}]
+				},
+				"extended_entities": {
+					"media": [{
+						"id": 1168692998017880066,
+						"id_str": "1168692998017880066",
+						"indices": [269, 292],
+						"media_url": "http:\/\/pbs.twimg.com\/media\/EDgIFvZXkAIjS_9.jpg",
+						"media_url_https": "https:\/\/pbs.twimg.com\/media\/EDgIFvZXkAIjS_9.jpg",
+						"url": "https:\/\/t.co\/JsTg9PD3PG",
+						"display_url": "pic.twitter.com\/JsTg9PD3PG",
+						"expanded_url": "https:\/\/twitter.com\/NWS\/status\/1168693070654840832\/photo\/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 542,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 765,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 765,
+								"resize": "fit"
+							}
+						}
+					}]
+				}
+			},
+			"quote_count": 26,
+			"reply_count": 10,
+			"retweet_count": 247,
+			"favorite_count": 305,
+			"entities": {
+				"hashtags": [{
+					"text": "Dorian",
+					"indices": [0, 7]
+				}],
+				"urls": [{
+					"url": "https:\/\/t.co\/Xq9snzbWP1",
+					"expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1168693070654840832",
+					"display_url": "twitter.com\/i\/web\/status\/1\u2026",
+					"indices": [121, 144]
+				}],
+				"user_mentions": [],
+				"symbols": []
+			},
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"filter_level": "low",
+			"lang": "en"
+		},
+		"quoted_status_permalink": {
+			"url": "https:\/\/t.co\/5iR8Z1sia4",
+			"expanded": "https:\/\/twitter.com\/NWS\/status\/1168693070654840832",
+			"display": "twitter.com\/NWS\/status\/116\u2026"
+		},
+		"is_quote_status": true,
+		"quote_count": 1,
+		"reply_count": 2,
+		"retweet_count": 41,
+		"favorite_count": 78,
+		"entities": {
+			"hashtags": [{
+				"text": "dorian",
+				"indices": [15, 22]
+			}],
+			"urls": [{
+				"url": "https:\/\/t.co\/F0S83hgxNY",
+				"expanded_url": "http:\/\/www.hurricanes.gov",
+				"display_url": "hurricanes.gov",
+				"indices": [35, 58]
+			}, {
+				"url": "https:\/\/t.co\/xIvbS91hjX",
+				"expanded_url": "http:\/\/www.weather.gov",
+				"display_url": "weather.gov",
+				"indices": [82, 105]
+			}, {
+				"url": "https:\/\/t.co\/5iR8Z1sia4",
+				"expanded_url": "https:\/\/twitter.com\/NWS\/status\/1168693070654840832",
+				"display_url": "twitter.com\/NWS\/status\/116\u2026",
+				"indices": [106, 129]
+			}],
+			"user_mentions": [],
+			"symbols": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"filter_level": "low",
+		"lang": "en"
+	},
+	"quoted_status_id": 1168693070654840832,
+	"quoted_status_id_str": "1168693070654840832",
+	"quoted_status": {
+		"created_at": "Tue Sep 03 01:11:55 +0000 2019",
+		"id": 1168693070654840832,
+		"id_str": "1168693070654840832",
+		"text": "#Dorian timeline &amp; impacts in a nutshell:\nTues-Wed: close to the Florida east coast\nWed-Thurs: close to the Georgia\u2026 https:\/\/t.co\/Xq9snzbWP1",
+		"display_text_range": [0, 140],
+		"source": "\u003ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003eTweetDeck\u003c\/a\u003e",
+		"truncated": true,
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 454313925,
+			"id_str": "454313925",
+			"name": "National Weather Service",
+			"screen_name": "NWS",
+			"location": "United States",
+			"url": "http:\/\/www.weather.gov",
+			"description": "Official Twitter account for NOAA's National Weather Service. Details: http:\/\/weather.gov\/twitter",
+			"translator_type": "none",
+			"protected": false,
+			"verified": true,
+			"followers_count": 2826413,
+			"friends_count": 309,
+			"listed_count": 8860,
+			"favourites_count": 2931,
+			"statuses_count": 23128,
+			"created_at": "Tue Jan 03 21:24:25 +0000 2012",
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+			"profile_background_tile": false,
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/842835019613831170\/vvWHIDxE_normal.jpg",
+			"profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/842835019613831170\/vvWHIDxE_normal.jpg",
+			"profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/454313925\/1567476218",
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": null,
+			"follow_request_sent": null,
+			"notifications": null
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"extended_tweet": {
+			"full_text": "#Dorian timeline &amp; impacts in a nutshell:\nTues-Wed: close to the Florida east coast\nWed-Thurs: close to the Georgia and South Carolina coasts\nPotential impacts: life-threatening storm surge, dangerous winds, flash floods, isolated tornadoes\nhttps:\/\/t.co\/IKid9pZiUO https:\/\/t.co\/JsTg9PD3PG",
+			"display_text_range": [0, 268],
+			"entities": {
+				"hashtags": [{
+					"text": "Dorian",
+					"indices": [0, 7]
+				}],
+				"urls": [{
+					"url": "https:\/\/t.co\/IKid9pZiUO",
+					"expanded_url": "http:\/\/noaa.gov\/dorian",
+					"display_url": "noaa.gov\/dorian",
+					"indices": [245, 268]
+				}],
+				"user_mentions": [],
+				"symbols": [],
+				"media": [{
+					"id": 1168692998017880066,
+					"id_str": "1168692998017880066",
+					"indices": [269, 292],
+					"media_url": "http:\/\/pbs.twimg.com\/media\/EDgIFvZXkAIjS_9.jpg",
+					"media_url_https": "https:\/\/pbs.twimg.com\/media\/EDgIFvZXkAIjS_9.jpg",
+					"url": "https:\/\/t.co\/JsTg9PD3PG",
+					"display_url": "pic.twitter.com\/JsTg9PD3PG",
+					"expanded_url": "https:\/\/twitter.com\/NWS\/status\/1168693070654840832\/photo\/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 765,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}]
+			},
+			"extended_entities": {
+				"media": [{
+					"id": 1168692998017880066,
+					"id_str": "1168692998017880066",
+					"indices": [269, 292],
+					"media_url": "http:\/\/pbs.twimg.com\/media\/EDgIFvZXkAIjS_9.jpg",
+					"media_url_https": "https:\/\/pbs.twimg.com\/media\/EDgIFvZXkAIjS_9.jpg",
+					"url": "https:\/\/t.co\/JsTg9PD3PG",
+					"display_url": "pic.twitter.com\/JsTg9PD3PG",
+					"expanded_url": "https:\/\/twitter.com\/NWS\/status\/1168693070654840832\/photo\/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 542,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 765,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 765,
+							"resize": "fit"
+						}
+					}
+				}]
+			}
+		},
+		"quote_count": 26,
+		"reply_count": 10,
+		"retweet_count": 247,
+		"favorite_count": 305,
+		"entities": {
+			"hashtags": [{
+				"text": "Dorian",
+				"indices": [0, 7]
+			}],
+			"urls": [{
+				"url": "https:\/\/t.co\/Xq9snzbWP1",
+				"expanded_url": "https:\/\/twitter.com\/i\/web\/status\/1168693070654840832",
+				"display_url": "twitter.com\/i\/web\/status\/1\u2026",
+				"indices": [121, 144]
+			}],
+			"user_mentions": [],
+			"symbols": []
+		},
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"filter_level": "low",
+		"lang": "en"
+	},
+	"quoted_status_permalink": {
+		"url": "https:\/\/t.co\/5iR8Z1sia4",
+		"expanded": "https:\/\/twitter.com\/NWS\/status\/1168693070654840832",
+		"display": "twitter.com\/NWS\/status\/116\u2026"
+	},
+	"is_quote_status": true,
+	"quote_count": 0,
+	"reply_count": 0,
+	"retweet_count": 0,
+	"favorite_count": 0,
+	"entities": {
+		"hashtags": [{
+			"text": "dorian",
+			"indices": [25, 32]
+		}],
+		"urls": [{
+			"url": "https:\/\/t.co\/F0S83hgxNY",
+			"expanded_url": "http:\/\/www.hurricanes.gov",
+			"display_url": "hurricanes.gov",
+			"indices": [45, 68]
+		}, {
+			"url": "https:\/\/t.co\/xIvbS91hjX",
+			"expanded_url": "http:\/\/www.weather.gov",
+			"display_url": "weather.gov",
+			"indices": [92, 115]
+		}, {
+			"url": "https:\/\/t.co\/5iR8Z1sia4",
+			"expanded_url": "https:\/\/twitter.com\/NWS\/status\/1168693070654840832",
+			"display_url": "twitter.com\/NWS\/status\/116\u2026",
+			"indices": [116, 139]
+		}],
+		"user_mentions": [{
+			"screen_name": "NOAA",
+			"name": "NOAA",
+			"id": 14342564,
+			"id_str": "14342564",
+			"indices": [3, 8]
+		}],
+		"symbols": []
+	},
+	"favorited": false,
+	"retweeted": false,
+	"possibly_sensitive": false,
+	"filter_level": "low",
+	"lang": "en",
+	"timestamp_ms": "1567482214861"
+}
+
+....................
+
+
+
+{
+	"createdAt": "Sep 2, 2019 11:46:35 PM",
+	"id": 1168731992470540288,
+	"text": "@t9yda boyy bouta get to blocking everybody 😂",
+	"displayTextRangeStart": 7,
+	"displayTextRangeEnd": 45,
+	"source": "\u003ca href\u003d\"http://twitter.com/download/iphone\" rel\u003d\"nofollow\"\u003eTwitter for iPhone\u003c/a\u003e",
+	"isTruncated": false,
+	"inReplyToStatusId": 1168731815147974657,
+	"inReplyToUserId": 2446554056,
+	"isFavorited": false,
+	"isRetweeted": false,
+	"favoriteCount": 0,
+	"inReplyToScreenName": "t9yda",
+	"place": {
+		"name": "New Orleans",
+		"countryCode": "US",
+		"id": "dd3b100831dd1763",
+		"country": "United States",
+		"placeType": "city",
+		"url": "https://api.twitter.com/1.1/geo/id/dd3b100831dd1763.json",
+		"fullName": "New Orleans, LA",
+		"boundingBoxType": "Polygon",
+		"boundingBoxCoordinates": [
+			[{
+				"latitude": 29.889574,
+				"longitude": -90.137908
+			}, {
+				"latitude": 30.075628,
+				"longitude": -90.137908
+			}, {
+				"latitude": 30.075628,
+				"longitude": -89.884108
+			}, {
+				"latitude": 29.889574,
+				"longitude": -89.884108
+			}]
+		]
+	},
+	"retweetCount": 0,
+	"isPossiblySensitive": false,
+	"lang": "en",
+	"contributorsIDs": [],
+	"userMentionEntities": [{
+		"name": "BALR.",
+		"screenName": "t9yda",
+		"id": 2446554056,
+		"start": 0,
+		"end": 6
+	}],
+	"urlEntities": [],
+	"hashtagEntities": [],
+	"mediaEntities": [],
+	"symbolEntities": [],
+	"currentUserRetweetId": -1,
+	"user": {
+		"id": 941814255556399104,
+		"name": "ALG!",
+		"screenName": "4milly_",
+		"location": "ALGIERS📍",
+		"description": "#restjay👼🏾. 💔 #restpops👼🏾.",
+		"descriptionURLEntities": [],
+		"isContributorsEnabled": false,
+		"profileImageUrl": "http://pbs.twimg.com/profile_images/1168312176517558272/aEZmb1Iz_normal.jpg",
+		"profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1168312176517558272/aEZmb1Iz_normal.jpg",
+		"isDefaultProfileImage": false,
+		"isProtected": false,
+		"followersCount": 1980,
+		"profileBackgroundColor": "F5F8FA",
+		"profileTextColor": "333333",
+		"profileLinkColor": "1DA1F2",
+		"profileSidebarFillColor": "DDEEF6",
+		"profileSidebarBorderColor": "C0DEED",
+		"profileUseBackgroundImage": true,
+		"isDefaultProfile": true,
+		"showAllInlineMedia": false,
+		"friendsCount": 1266,
+		"createdAt": "Dec 15, 2017 6:36:31 PM",
+		"favouritesCount": 4660,
+		"utcOffset": -1,
+		"profileBackgroundImageUrl": "",
+		"profileBackgroundImageUrlHttps": "",
+		"profileBannerImageUrl": "https://pbs.twimg.com/profile_banners/941814255556399104/1567390415",
+		"profileBackgroundTiled": false,
+		"statusesCount": 31234,
+		"isGeoEnabled": true,
+		"isVerified": false,
+		"translator": false,
+		"listedCount": 3,
+		"isFollowRequestSent": false
+	},
+	"quotedStatusId": -1
+}
