@@ -1,6 +1,7 @@
 package com.gmu.hsil.service;
 
 import java.util.Arrays;
+import java.util.List;
 
 import org.apache.kafka.clients.consumer.ConsumerRecord;
 import org.apache.kafka.clients.consumer.ConsumerRecords;
@@ -17,10 +18,35 @@ public class TwitterBoundingBoxBasedParser implements Parser{
 	@Autowired
 	private KafkaConfig kafkaConfig;
 
-	private final static String TOPIC = "boundingbox";
+	private static String TOPIC = "boundingbox";
+	
+	private static String ES_INDEX = "fairfax";
+	
+	private String URL  = null;
+	
+	List<String> ml_model = null;
+	
+	@Autowired
+	private ElasticSearchService elasticService;
 
 	@Override
 	public void parse(ConfigurationRequest config) {
+		
+		if(config.getKafka_topic()!=null) {
+			TOPIC = config.getKafka_topic();
+		}
+
+		if(config.getElasticsearch_index()!=null) {
+			ES_INDEX = config.getElasticsearch_index();
+		}
+		
+		if(config.getElasticsearch_url()!=null) {
+			URL = config.getElasticsearch_url();
+		}
+		
+		if(config.getMl_model()!=null) {
+			ml_model = config.getMl_model();
+		}
 
 		KafkaConsumer<String, String> kafkaConsumer = kafkaConfig.getKafkaConsumer();
 		kafkaConsumer.subscribe(Arrays.asList(TOPIC));
@@ -28,7 +54,7 @@ public class TwitterBoundingBoxBasedParser implements Parser{
 		while(true) {
 			ConsumerRecords<String, String> records = kafkaConsumer.poll(100);
 			for (ConsumerRecord<String, String> record : records) {
-				System.out.println(record.value());
+				elasticService.saveData(record.value(), ES_INDEX, null, URL, ml_model);
 			}
 		}
 

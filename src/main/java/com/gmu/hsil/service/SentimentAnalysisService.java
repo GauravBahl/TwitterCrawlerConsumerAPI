@@ -4,15 +4,16 @@ import org.springframework.stereotype.Service;
 
 import com.gmu.hsil.model.SentimentRequest;
 import com.google.gson.Gson;
-import com.mashape.unirest.http.HttpResponse;
-import com.mashape.unirest.http.Unirest;
-import com.mashape.unirest.http.exceptions.UnirestException;
+
+import kong.unirest.HttpResponse;
+import kong.unirest.Unirest;
+import kong.unirest.UnirestException;
 
 @Service
 public class SentimentAnalysisService {
 
 	private Gson gson = new Gson();
-	private String url = "http://localhost:5000/sentiment";
+	private String url = "http://localhost:5002/sentiment";
 	
 	public String getSentiment(String text) {
 
